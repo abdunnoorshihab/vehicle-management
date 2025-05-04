@@ -34,7 +34,7 @@
     <div class="row g-4">
 
       <div class="col-md-4 text-center">
-        <img src="stock-photo-random-pictures-cute-and-funny-2286554497.jpg" alt="Profile Picture" class="profile-img">
+        <img src="pngtree-cartoon-of-a-man-dressed-formally-png-image_16188960.png" alt="Profile Picture" class="profile-img">
       </div>
 
       <div class="col-md-8">
